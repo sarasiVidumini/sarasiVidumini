@@ -19,55 +19,44 @@ I enjoy working with **Java, Web Technologies, and Databases**, following clean 
 - 🤝 Open to internships & collaborations  
 
 ---
+## 🛠 Tech Stack
 
-## 🛠️ Tech Stack
+### 💻 Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge)
-
-### 🌐 Web
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Servlet](https://img.shields.io/badge/Servlets-Java-blue?style=for-the-badge)
-
-### ⚙️ Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat)
+### 🗄 Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 📈 Analysis & Activity
 
-- 🧾 POS System (Java, JavaFX, MySQL)  
-- 🛒 Order & Inventory Management System  
-- 💳 Payment Management Application  
-- 📊 Reports using JasperReports  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff&icon_color=00d1b2" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🔗 Let's Connect
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sarasi-vidumini-27a35a379/?originalSubdomain=lk)
 
-- 📧 Email: your-email@example.com  
-- 💻 GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
 <p align="center">
-  <i>“Build software that solves real problems.”</i>
+  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
 </p>
