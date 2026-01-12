@@ -19,44 +19,62 @@ I enjoy working with **Java, Web Technologies, and Databases**, following clean 
 - 🤝 Open to internships & collaborations  
 
 ---
-## 🛠 Tech Stack
 
-### 💻 Development
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://tenor.com/view/marshall-hayner-proton-xpr-proton-chain-gif-19812425)
+## 🛠️ Technical Skills
 
-### 🗄 Database & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 💻 Programming Languages
+- Java  
+- JavaScript  
+- SQL  
 
----
+### 🌐 Web Technologies
+- HTML  
+- CSS  
+- JavaScript  
+- Servlets & JSP  
 
-## 📈 Analysis & Activity
+### ⚙️ Frameworks & Tools
+- JavaFX  
+- Apache Tomcat  
+- MySQL  
+- Git & GitHub  
+- IntelliJ IDEA / VS Code  
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff&icon_color=00d1b2" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 📚 Concepts
+- Object-Oriented Programming (OOP)  
+- MVC Architecture  
+- RESTful APIs  
+- Database Design & Normalization  
 
 ---
 
-## 🔗 Let's Connect
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sarasi-vidumini-27a35a379/?originalSubdomain=lk)
+## 📂 Projects
 
+- 🧾 **POS System** – Java, JavaFX, MySQL  
+- 🛒 **Order & Inventory Management System**  
+- 💳 **Payment Management Application**  
+- 📊 **Report Generation using JasperReports**
+
+👉 *More projects available in my repositories.*
 
 ---
+
+## 🎯 Career Interests
+
+- Software Engineering  
+- Web Application Development  
+- Backend Development  
+- Database Management Systems  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **sarasividumini13@gmail.com**  
+- 💻 GitHub:(https://github.com/sarasiVidumini)
+
+
 
 <p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
+  <i>“Code with purpose, learn with passion.”</i>
 </p>
