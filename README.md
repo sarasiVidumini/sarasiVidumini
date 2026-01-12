@@ -1,77 +1,73 @@
 <h1 align="center">Hi 👋, I'm Sarasi Vidumini</h1>
 <h3 align="center">Software Developer | Java & Web Technologies</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer;Java+%7C+Web+Technologies;Clean+Code+%7C+OOP+%7C+MVC" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-I am a motivated and detail-oriented **Software Development student** with a strong passion for building real-world applications.  
-I enjoy transforming ideas into efficient, user-friendly software solutions while following clean code and object-oriented principles.
+I am a motivated **Software Development student** with a strong interest in building real-world, scalable applications.  
+I enjoy working with **Java, Web Technologies, and Databases**, following clean code and object-oriented principles.
 
 - 🎓 Software Development Student  
 - 💡 Interested in Full-Stack Development  
 - 🧠 Strong in OOP & MVC Architecture  
-- 🌱 Currently learning advanced Java & Web Technologies  
-- 🤝 Open to internships, collaborations, and learning opportunities  
+- 🌱 Currently learning advanced Java & backend technologies  
+- 🤝 Open to internships & collaborations  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Java  
-- JavaScript  
-- SQL  
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge)
 
-### 🌐 Web Technologies
-- HTML  
-- CSS  
-- JavaScript  
-- Servlets & JSP  
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Servlet](https://img.shields.io/badge/Servlets-Java-blue?style=for-the-badge)
 
-### ⚙️ Frameworks & Tools
-- JavaFX  
-- Apache Tomcat  
-- MySQL  
-- Git & GitHub  
-- IntelliJ IDEA / VS Code  
-
-### 📚 Concepts
-- Object-Oriented Programming (OOP)  
-- MVC Architecture  
-- RESTful APIs  
-- Database Design & Normalization  
+### ⚙️ Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat)
 
 ---
 
 ## 📂 Projects
 
-- 🧾 **POS System** – Java, JavaFX, MySQL  
-- 🛒 **Order & Inventory Management System**  
-- 💳 **Payment Management Application**  
-- 📊 **Report Generation using JasperReports**
-
-👉 *More projects available in my repositories.*
+- 🧾 POS System (Java, JavaFX, MySQL)  
+- 🛒 Order & Inventory Management System  
+- 💳 Payment Management Application  
+- 📊 Reports using JasperReports  
 
 ---
 
-## 🎯 Career Interests
+## 📊 GitHub Stats
 
-- Software Engineering  
-- Web Application Development  
-- Backend Development
-- UI/UX Design 
-- Database Management Systems  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: **sarasividumini13@gmail.com**  
-- 💻 GitHub: (https://github.com/sarasiVidumini)
+- 📧 Email: your-email@example.com  
+- 💻 GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
 <p align="center">
-  <i>“Code with purpose, learn with passion.”</i>
+  <i>“Build software that solves real problems.”</i>
 </p>
